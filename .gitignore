@@ -183,5 +183,5 @@ venv*/
 .pdf
 .slides.html
 
-# student submissions
-assignments/assignment*/submissions/
+# downloaded assignments
+assignments/*/submissions
